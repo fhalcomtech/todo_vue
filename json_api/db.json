@@ -1,6 +1,6 @@
 {
-    "todo":[
-        {"id":1, "task":"Aprender vue", "status":"active"},
-        {"id":2, "task":"Aprender React", "status":"end"}
-    ]
+  "todo": [
+    { "id": 1, "task": "Aprender vue", "status": "active" },
+    { "id": 2, "task": "Aprender React", "status": "end" }
+  ]
 }
